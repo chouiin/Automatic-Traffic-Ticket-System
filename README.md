@@ -13,5 +13,3 @@ This system is designed to streamline the handling of traffic violations through
 - **National Dashboard**  : Monitors all violation events in real time for centralized oversight.
 
 ---
-
-I was responsible for the **Ticket Issuing and Notification Module**, which automates the fine creation process and connects it with the alerting system to ensure timely and accurate ticket delivery.
